@@ -1,0 +1,5 @@
+.env
+cache
+pandasai.log
+app.py
+requirements.txt
